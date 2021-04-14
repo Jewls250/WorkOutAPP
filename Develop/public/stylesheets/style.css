@@ -1,0 +1,83 @@
+form.signup,
+form.login {
+  margin-top: 50px;
+}
+
+#loginBody{
+  background-image: url(/Develop/public/images/daniel-sessler-MGH6UNJ1Xvs-unsplash.jpg);
+  min-height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; 
+  margin-top: 60px;
+}
+
+#signUpBody{
+  background-image: url(/Develop/public/images/luke-stackpoole-D5b3iZF1RrI-unsplash.jpg);
+  min-height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; 
+  margin-top: 60px;
+}
+
+#login {
+  font-weight: 900;
+  color: #fd7a00e7;
+  font-size: 40px;
+  -webkit-text-stroke: 2.5px rgb(0, 0, 0);
+}
+
+#signUp{
+  font-weight: 900;
+  color: #e73636e7;
+  font-size: 40px;
+  -webkit-text-stroke: 2.5px rgb(0, 0, 0);
+}
+
+#formText{
+  color: #fd7a00e7;
+  font-weight: 800;
+  font-size: x-large;
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+}
+
+#signUpFormText{
+  color: #e73636e7;
+  font-weight: 800;
+  font-size: x-large;
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+}
+
+#loginLink, #signUpLink{
+  color: aqua;
+  font-weight: 800;
+  font-size: x-large;
+  -webkit-text-stroke: 1.75px rgb(0, 0, 0);
+}
+
+#loginLink:hover, #signUpLink:hover{
+  color: white;
+
+}
+
+#loginBtnColor{
+  background-color: #fd7a00e7;
+  color: black;
+}
+
+ #signUpBtnColor{
+   background-color: #e73636e7;
+   color: black;
+ }
+
+#navpadding{
+  padding: 20px 0;
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+#navTextColor{
+  color: #fd7a00e7;
+}
